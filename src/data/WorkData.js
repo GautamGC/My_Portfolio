@@ -1,0 +1,64 @@
+// work data
+
+export const Work = [
+    {
+        id:1,
+        name:"Social Media Page",
+        description:"Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI",
+        tags:["react","mongoDB","styledComponents,api"],
+        
+        demo:"",
+        github:"https://github.com/GautamGC/Socially"
+    },
+    {
+        id:2,
+        name:"Another Portfolio Site",
+        description:"My first portfolio Site",
+        tags:["react","portfolio"],
+        
+        demo:"https://portfolio-lake-phi-54.vercel.app/",
+        github:"https://github.com/GautamGC/portfolio"
+        
+    },
+    {
+        id:3,
+        name:"AWS Site Hosting",
+        description:"Hosted Working Youtube clone to AWS using amplify and backend supported by Clouddfront.",
+        tags:["react","AWS","amplify","cloudfront",'DynamoDB'],
+        
+        demo:"https://github.com/GautamGC/AWS/blob/main/README.md",
+        github:"https://github.com/GautamGC/AWS"
+    },
+    {
+        id:4,
+        name:"Restraunt Page",
+        description:"A Major Frontend Project iun which I w=make a Restraunt Landing page ",
+        tags:["react","styledComponents","react-router"],
+        
+        demo:"https://restaurant-page-tau.vercel.app/",
+        github:"https://github.com/GautamGC/RestaurantPage"
+       
+    },
+    {
+        id:5,
+        name:"Responsive Navigation Menu",
+        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
+        tags:["react","react-router","css"],
+        
+        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
+        github:"https://github.com/codebucks27/React-responsive-navbar"
+        
+    },
+    {
+        id:6,
+        name:"PokeSite",
+        description:"My first Site",
+        tags:["html","css","JavaScript"],
+        
+        demo:"https://poke-site-weld.vercel.app/",
+        github:"https://github.com/GautamGC/PokeSite"
+        
+    },
+    
+  
+] 
