@@ -3,6 +3,15 @@
 export const Work = [
     {
         id:1,
+        name:"Speech-to-Teext Model",
+        description:"Speech to text Model from scrap without any pre-trained Model",
+        tags:["Machiene Learning","NLP","Python","JupyterNoteBook"],
+        
+        demo:"",
+        github:"https://github.com/GautamGC/Speech_to_text_model"
+    },
+    {
+        id:2,
         name:"Social Media Page",
         description:"Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI",
         tags:["react","mongoDB","styledComponents,api"],
@@ -11,7 +20,7 @@ export const Work = [
         github:"https://github.com/GautamGC/Socially"
     },
     {
-        id:2,
+        id:3,
         name:"Another Portfolio Site",
         description:"My first portfolio Site",
         tags:["react","portfolio"],
@@ -21,7 +30,7 @@ export const Work = [
         
     },
     {
-        id:3,
+        id:4,
         name:"AWS Site Hosting",
         description:"Hosted Working Youtube clone to AWS using amplify and backend supported by Clouddfront.",
         tags:["react","AWS","amplify","cloudfront",'DynamoDB'],
@@ -30,7 +39,7 @@ export const Work = [
         github:"https://github.com/GautamGC/AWS"
     },
     {
-        id:4,
+        id:5,
         name:"Restraunt Page",
         description:"A Major Frontend Project iun which I w=make a Restraunt Landing page ",
         tags:["react","styledComponents","react-router"],
@@ -40,7 +49,7 @@ export const Work = [
        
     },
     {
-        id:5,
+        id:6,
         name:"Responsive Navigation Menu",
         description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
         tags:["react","react-router","css"],
@@ -50,7 +59,7 @@ export const Work = [
         
     },
     {
-        id:6,
+        id:7,
         name:"PokeSite",
         description:"My first Site",
         tags:["html","css","JavaScript"],
