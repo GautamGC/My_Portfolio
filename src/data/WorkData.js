@@ -3,7 +3,7 @@
 export const Work = [
     {
         id:1,
-        name:"Speech-to-Teext Model",
+        name:"Speech-to-Text Model",
         description:"Speech to text Model from scrap without any pre-trained Model",
         tags:["Machiene Learning","NLP","Python","JupyterNoteBook"],
         
