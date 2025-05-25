@@ -7,7 +7,7 @@ export const Work = [
         description:"Speech to text Model from scrap without any pre-trained Model",
         tags:["Machiene Learning","NLP","Python","JupyterNoteBook"],
         
-        demo:"",
+        demo:"https://github.com/GautamGC/Speech_to_text_model",
         github:"https://github.com/GautamGC/Speech_to_text_model"
     },
     {
