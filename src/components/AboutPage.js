@@ -73,9 +73,9 @@ const AboutPage = () => {
         </Spaceman>    
         <Main>
         I am currently in my 4th year of Computer Science at VIT Chennai, where I develop scalable and efficient web-based and software solutions.
-        </br> </br>
+        <br/> <br/>
         I am skilled in data structures, algorithms, and full-stack development, with a strong passion for solving complex problems and building scalable applications. 
-        </br></br>
+        <br/><br/>
         I pursued a Google Cloud certification, strengthening my knowledge of cloud architecture, deployment, and optimization on GCP. Over the years, I have worked on cloud solutions, system architecture, and backend performance optimization.
         </Main>
 
