@@ -119,15 +119,21 @@ I love solving problems by designing and building efficient software solutions."
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> FullStack Developer
+    <Develope width={40} height={40} /> Cloud Architecture
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+I value business or brand for which i'm creating and managing, thus i enjoy bringing new ideas to life.
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Bootstrap, Tailwind, Firebase, MongoDB, NodeJS etc.
+MongoDB, DynamoDB, Tableau
+</p>
+</Description>
+<Description>
+<strong>Cloud Platform worked with</strong>
+<p>
+Google Cloud(Certification), AWS
 </p>
 </Description>
 <Description>
