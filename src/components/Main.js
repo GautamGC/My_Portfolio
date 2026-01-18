@@ -153,7 +153,7 @@ const Main = () => {
             style={{ color: 'black', textDecoration: 'none' }}
     >
             <a 
-            href="https://drive.google.com/uc?export=download&id=1-iUP-Tw7ifRa2t5uWmgAudpiTgf_bMRr" 
+            href="https://docs.google.com/document/d/1xoBqKHHg_Ft8-o1yboK_RcorICe2JlwYJfeHTasWRqw/export?format=pdf" 
             download="My_Resume.pdf" 
             style={{ color: 'black', textDecoration: 'none' }}
             >
