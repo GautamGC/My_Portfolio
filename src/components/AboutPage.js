@@ -72,11 +72,11 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I am currently in 3rd year Computer Science at VIT Chennai where I am developing scalable and efficient web based and other software solutions
-<br /> <br/>
-Skilled in data structures, algorithms, and full stack development with a passion for solving hard problems and building scalable applications My expertise includes React. js, Node. js, MoongoDB, AWS, competitive programming. For several years, I worked on cloud solutions, system architecture, and backend optimizations.
-<br/> <br/>
-I am currently pursuing a Software Engineer position that would allow me to incorporate my technical expertise, ability to solve challenges, growth.
+        I am currently in my 4th year of Computer Science at VIT Chennai, where I develop scalable and efficient web-based and software solutions.
+        </br> </br>
+        I am skilled in data structures, algorithms, and full-stack development, with a strong passion for solving complex problems and building scalable applications. 
+        </br></br>
+        I pursued a Google Cloud certification, strengthening my knowledge of cloud architecture, deployment, and optimization on GCP. Over the years, I have worked on cloud solutions, system architecture, and backend performance optimization.
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
